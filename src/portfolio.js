@@ -40,14 +40,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "EXPLORING FULL STACK DEVELOPER WHO WANTS LEARN AS MUCH AS I CAN",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    // emoji("⚡ Managing projects to achieve project objectives"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Firebase/ Swagger"
     )
   ],
 
@@ -63,10 +63,11 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    // {
-    //   skillName: "sass",
-    //   fontAwesomeClassname: "fab fa-sass"
-    // },
+    {
+      skillName: "java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -78,6 +79,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
+    },
+    {
+      skillName: "jira",
+      fontAwesomeClassname: "fab fa-jira"
     },
     // {
     //   skillName: "swift",
@@ -103,6 +108,10 @@ https://fontawesome.com/icons?d=gallery */
     //   skillName: "python",
     //   fontAwesomeClassname: "fab fa-python"
     // },
+    {
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github"
+    },
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
