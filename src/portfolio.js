@@ -14,7 +14,8 @@ const greeting = {
   username: "Emir Eken",
   title: "Hi all, I'm Emir",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Project Manager 🚀 having an 7 years of experience of managing Web and Mobile application projects. More than 3 years of experience in software analysis and tests. Also a Software development enthusiast with JAVA  ",
+  
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing",
@@ -62,46 +63,46 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
+    // {
+    //   skillName: "sass",
+    //   fontAwesomeClassname: "fab fa-sass"
+    // },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "react",
       fontAwesomeClassname: "fab fa-react"
     },
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
+    // {
+    //   skillName: "swift",
+    //   fontAwesomeClassname: "fab fa-swift"
+    // },
+    // {
+    //   skillName: "npm",
+    //   fontAwesomeClassname: "fab fa-npm"
+    // },
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
+    // {
+    //   skillName: "aws",
+    //   fontAwesomeClassname: "fab fa-aws"
+    // },
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
+    // {
+    //   skillName: "python",
+    //   fontAwesomeClassname: "fab fa-python"
+    // },
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
@@ -115,6 +116,17 @@ https://fontawesome.com/icons?d=gallery */
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
+    {
+      schoolName: "Ataturk Univesity",
+      logo: require("./assets/images/atu_logo.png"),
+      subHeader: "Master of Business Administration",
+      duration: "2017 - 2019",
+      desc: "Conduct a research of Project Management in Software Development.",
+      // descBullets: [
+      //   "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship accurately. For this goal pressure volume relationship was calculated using elastance.",
+      //   // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
+    },
     {
       schoolName: "Bahcesehir Univesity",
       logo: require("./assets/images/bau_logo.png"),
@@ -209,30 +221,42 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Main Projects",
+ // subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/fya_logo.png"),
+      projectName: "FIAT Connect",
+      projectDesc: "Connected cars are primarily vehicles that are equipped with telematic control units to access internet. They have an inbuilt GSM modules and are able to connect with entities outside the vehicle. It has several value added services in FIAT Yol Arkadaşım application such as vehicle control, improved safety.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://yolarkadasim.fiat.com.tr/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/astore_logo.png"),
+      projectName: "Medicine and Medical Consumables Management Unit",
+      projectDesc: "A|Store is a logistics management system that manages medicine and medical consumables of      Acıbadem Healthcare Group. ASTORE is integrated with outsource applications like Hospital Information System      (HIS) and Enterprise Resource Planning (ERP). It has also hardware’s like electronic cabinet and console system.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "http://www.acibademtechnology.com/a-store/"
         }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/cadio_logo.png"),
+      projectName: "Construction and Feedback Control of an Elastance-driven Mock Circuit",
+      projectDesc: "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an       elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship       accurately. For this goal pressure volume relationship was calculated using elastance.",      footerLink: [
+        {
+          name: "Download Master Thesis ",
+          url: "https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=gyLHMouPes-CvnhRcjQsKe-cSBEm3UmEaQoCKNtfuL60952s5jQiUr1qDRZ9MDeG"
+        }
+        
       ]
     }
   ],
@@ -302,18 +326,18 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "With Love for learning cool stuff, I love to write and teach others what I have learnt.",
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://emireken.github.io/egek-blog-app/#/",
+      title: "GITHUB Software Blog",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Do you want to share your progress of your development? React Blog is a personal blog system build on React that helps you create your own personal blog using Github Issues "
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://1i3t.blogspot.com/?zx=30eac4b812daf512",
+      title: "1I3T - Ideas, Thoughts, Today and Tomorrow",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
