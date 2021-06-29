@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26cb967ca095a074a07b3d2c52f842da",
+    "revision": "48f187b613856ac19f045bcce08a44bf",
     "url": "/developerFolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/css/4.5c57288c.chunk.css"
   },
   {
-    "revision": "1433320a7f60f4f09546",
+    "revision": "8c8efe093cecee9f8014",
     "url": "/developerFolio/static/css/main.4958d910.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/4.36667f7b.chunk.js"
   },
   {
-    "revision": "1433320a7f60f4f09546",
-    "url": "/developerFolio/static/js/main.08b22539.chunk.js"
+    "revision": "8c8efe093cecee9f8014",
+    "url": "/developerFolio/static/js/main.72386594.chunk.js"
   },
   {
     "revision": "024eb218e2f5569d7a7c",
@@ -48,24 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/Montserrat-Regular.847627bf.ttf"
   },
   {
-    "revision": "e671924b7f2ee776936203849ace53de",
-    "url": "/developerFolio/static/media/acibadem_logo.e671924b.png"
+    "revision": "bb58e698ab106285f62e93d1d2a9d6df",
+    "url": "/developerFolio/static/media/acibadem_logo.bb58e698.png"
   },
   {
-    "revision": "0243c89eb9be9d1bb1910730c5d74e26",
-    "url": "/developerFolio/static/media/atu_logo.0243c89e.png"
+    "revision": "82a5ad21bb9a97e0421f3f578dabfe22",
+    "url": "/developerFolio/static/media/astore_logo.82a5ad21.png"
   },
   {
-    "revision": "25fcf453c6c1a84f4e47a196e0790006",
-    "url": "/developerFolio/static/media/azak_logo.25fcf453.png"
+    "revision": "7cafcfb9ac58e22a72d3d3d5646d43e1",
+    "url": "/developerFolio/static/media/atu_logo.7cafcfb9.png"
   },
   {
-    "revision": "1d99fcd0035529745dc05e5c327c6570",
-    "url": "/developerFolio/static/media/bau_logo.1d99fcd0.png"
-  },
-  {
-    "revision": "3373800f2305a187e989a16abdf4fcfa",
-    "url": "/developerFolio/static/media/cadio_logo.3373800f.png"
+    "revision": "d05eae31fe5bbb7d4dbb2df1482396d4",
+    "url": "/developerFolio/static/media/azak_logo.d05eae31.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -80,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "608e1b96f5df35d05e25b7dd7e642390",
-    "url": "/developerFolio/static/media/fya_logo.608e1b96.png"
+    "revision": "995a27de1280c502b2a69f9f1b10aa17",
+    "url": "/developerFolio/static/media/fya_logo.995a27de.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
@@ -98,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/developerFolio/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "4964a973a08c7a36f78ed132e94ec4a9",
-    "url": "/developerFolio/static/media/stellantis_logo.4964a973.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
