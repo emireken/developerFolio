@@ -149,8 +149,8 @@ const educationInfo = {
       logo: require("./assets/images/bau_logo.png"),
       subHeader: "Bachelor of Science in Mechatronics Engineering",
       duration: "2007 - 2012",
-      desc: "Ranked top 10% in the program. Took courses about Software Development, Embedded Software, Electronics, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: "Ranked top 10% in the program. Took courses about Software Development, Embedded Software, Electronics, ..."
+      //descBullets: [""]
     }
   ]
 };
