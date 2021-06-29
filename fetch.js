@@ -90,4 +90,17 @@ if (USE_GITHUB_DATA === "true") {
 
   req.write(data);
   req.end();
+
+  var firebaseConfig = {
+    apiKey: "AIzaSyDOkoRkcjHRGKWV6KxzNntMHkEPBT0zbxQ",
+    authDomain: "emir-eken-portfolio.firebaseapp.com",
+    projectId: "emir-eken-portfolio",
+    storageBucket: "emir-eken-portfolio.appspot.com",
+    messagingSenderId: "587883521888",
+    appId: "1:587883521888:web:462b69c1bdf66a7eb6a005",
+    measurementId: "G-7RKN2TSX0H"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
 }
