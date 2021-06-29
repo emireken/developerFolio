@@ -14,7 +14,7 @@ const greeting = {
   username: "Emir Eken",
   title: "Hi all, I'm Emir",
   subTitle: emoji(
-    "A passionate Project Manager 🚀 having an 7 years of experience of managing Web and Mobile application projects. More than 3 years of experience in software analysis and tests. Also a Software development enthusiast with JAVA  "
+    "A passionate Project Manager 🚀 having an 7 years of experience of managing Web and Mobile application projects. More than 3 years of experience in software analysis and tests. Also a Software development enthusiast with JAVA. "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing",
