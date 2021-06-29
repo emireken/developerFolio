@@ -14,8 +14,7 @@ const greeting = {
   username: "Emir Eken",
   title: "Hi all, I'm Emir",
   subTitle: emoji(
-    "A passionate Project Manager 🚀 having an 7 years of experience of managing Web and Mobile application projects. More than 3 years of experience in software analysis and tests. Also a Software development enthusiast with JAVA  ",
-  
+    "A passionate Project Manager 🚀 having an 7 years of experience of managing Web and Mobile application projects. More than 3 years of experience in software analysis and tests. Also a Software development enthusiast with JAVA  "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing",
@@ -46,9 +45,7 @@ const skillsSection = {
       "⚡ Develop Front end / User Interfaces for your web and mobile applications"
     ),
     // emoji("⚡ Managing projects to achieve project objectives"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ Swagger"
-    )
+    emoji("⚡ Integration of third party services such as Firebase/ Swagger")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -123,14 +120,14 @@ https://fontawesome.com/icons?d=gallery */
 // Education Section
 
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: true, // Set afalse to hide this section, defaults to true
   schools: [
     {
       schoolName: "Ataturk Univesity",
       logo: require("./assets/images/atu_logo.png"),
       subHeader: "Master of Business Administration",
       duration: "2017 - 2019",
-      desc: "Conduct a research of Project Management in Software Development.",
+      desc: "Conduct a research of Project Management in Software Development."
       // descBullets: [
       //   "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship accurately. For this goal pressure volume relationship was calculated using elastance.",
       //   // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -143,7 +140,7 @@ const educationInfo = {
       duration: "2012 - 2013",
       desc: "Participated in the research of Cardiovascular Mock Circuit.",
       descBullets: [
-        "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship accurately. For this goal pressure volume relationship was calculated using elastance.",
+        "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship accurately. For this goal pressure volume relationship was calculated using elastance."
         // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
@@ -203,7 +200,7 @@ const workExperiences = {
       date: "November 2016 – June 2018",
       desc: "Managed an installation project a flexible and well-structured end-to-end IT solution, which covers stock management, accounting, selling and invoicing for a family business.",
       descBullets: [
-        "Worked with local vendors for ease maintenance and technical support.",
+        "Worked with local vendors for ease maintenance and technical support."
       ]
     },
     {
@@ -213,7 +210,7 @@ const workExperiences = {
       date: "Jan 2015 – Sep 2015",
       desc: "Managed A|Store project from idea stage to software integration, prototyping and mass production.",
       descBullets: [
-        "Created series of company protocols and guidelines for project management, IT equipment purchasing, grand application processes, etc.",
+        "Created series of company protocols and guidelines for project management, IT equipment purchasing, grand application processes, etc."
       ]
     }
   ]
@@ -231,12 +228,13 @@ const openSource = {
 
 const bigProjects = {
   title: "Main Projects",
- // subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  // subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
       image: require("./assets/images/fya_logo.png"),
       projectName: "FIAT Connect",
-      projectDesc: "Connected cars are primarily vehicles that are equipped with telematic control units to access internet. They have an inbuilt GSM modules and are able to connect with entities outside the vehicle. It has several value added services in FIAT Yol Arkadaşım application such as vehicle control, improved safety.",
+      projectDesc:
+        "Connected cars are primarily vehicles that are equipped with telematic control units to access internet. They have an inbuilt GSM modules and are able to connect with entities outside the vehicle. It has several value added services in FIAT Yol Arkadaşım application such as vehicle control, improved safety.",
       footerLink: [
         {
           name: "Visit Website",
@@ -248,7 +246,8 @@ const bigProjects = {
     {
       image: require("./assets/images/astore_logo.png"),
       projectName: "Medicine and Medical Consumables Management Unit",
-      projectDesc: "A|Store is a logistics management system that manages medicine and medical consumables of      Acıbadem Healthcare Group. ASTORE is integrated with outsource applications like Hospital Information System      (HIS) and Enterprise Resource Planning (ERP). It has also hardware’s like electronic cabinet and console system.",
+      projectDesc:
+        "A|Store is a logistics management system that manages medicine and medical consumables of      Acıbadem Healthcare Group. ASTORE is integrated with outsource applications like Hospital Information System      (HIS) and Enterprise Resource Planning (ERP). It has also hardware’s like electronic cabinet and console system.",
       footerLink: [
         {
           name: "Visit Website",
@@ -259,13 +258,15 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/cadio_logo.png"),
-      projectName: "Construction and Feedback Control of an Elastance-driven Mock Circuit",
-      projectDesc: "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an       elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship       accurately. For this goal pressure volume relationship was calculated using elastance.",      footerLink: [
+      projectName:
+        "Construction and Feedback Control of an Elastance-driven Mock Circuit",
+      projectDesc:
+        "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an       elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship       accurately. For this goal pressure volume relationship was calculated using elastance.",
+      footerLink: [
         {
           name: "Download Master Thesis ",
           url: "https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=gyLHMouPes-CvnhRcjQsKe-cSBEm3UmEaQoCKNtfuL60952s5jQiUr1qDRZ9MDeG"
         }
-        
       ]
     }
   ],
