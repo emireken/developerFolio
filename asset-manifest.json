@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.4958d910.chunk.css",
-    "main.js": "/developerFolio/static/js/main.72386594.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.72386594.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.4453e288.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.4453e288.chunk.js.map",
     "runtime-main.js": "/developerFolio/static/js/runtime-main.c6fd32c8.js",
     "runtime-main.js.map": "/developerFolio/static/js/runtime-main.c6fd32c8.js.map",
-    "static/js/2.dca427b7.chunk.js": "/developerFolio/static/js/2.dca427b7.chunk.js",
-    "static/js/2.dca427b7.chunk.js.map": "/developerFolio/static/js/2.dca427b7.chunk.js.map",
+    "static/js/2.ebfbc486.chunk.js": "/developerFolio/static/js/2.ebfbc486.chunk.js",
+    "static/js/2.ebfbc486.chunk.js.map": "/developerFolio/static/js/2.ebfbc486.chunk.js.map",
     "static/css/3.bc85b1b3.chunk.css": "/developerFolio/static/css/3.bc85b1b3.chunk.css",
     "static/js/3.48dbe6a3.chunk.js": "/developerFolio/static/js/3.48dbe6a3.chunk.js",
     "static/js/3.48dbe6a3.chunk.js.map": "/developerFolio/static/js/3.48dbe6a3.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.36667f7b.chunk.js": "/developerFolio/static/js/4.36667f7b.chunk.js",
     "static/js/4.36667f7b.chunk.js.map": "/developerFolio/static/js/4.36667f7b.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.af09a46051cffe4aa1585d939889490d.js": "/developerFolio/precache-manifest.af09a46051cffe4aa1585d939889490d.js",
+    "precache-manifest.6f0bf8b89d996fab1eceb78b41055e92.js": "/developerFolio/precache-manifest.6f0bf8b89d996fab1eceb78b41055e92.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.bc85b1b3.chunk.css.map": "/developerFolio/static/css/3.bc85b1b3.chunk.css.map",
     "static/css/4.5c57288c.chunk.css.map": "/developerFolio/static/css/4.5c57288c.chunk.css.map",
     "static/css/main.4958d910.chunk.css.map": "/developerFolio/static/css/main.4958d910.chunk.css.map",
-    "static/js/2.dca427b7.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.dca427b7.chunk.js.LICENSE.txt",
+    "static/js/2.ebfbc486.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.ebfbc486.chunk.js.LICENSE.txt",
     "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.847627bf.ttf",
     "static/media/acibadem_logo.png": "/developerFolio/static/media/acibadem_logo.bb58e698.png",
     "static/media/astore_logo.png": "/developerFolio/static/media/astore_logo.82a5ad21.png",
@@ -37,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c6fd32c8.js",
-    "static/js/2.dca427b7.chunk.js",
+    "static/js/2.ebfbc486.chunk.js",
     "static/css/main.4958d910.chunk.css",
-    "static/js/main.72386594.chunk.js"
+    "static/js/main.4453e288.chunk.js"
   ]
 }
