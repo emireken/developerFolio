@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6aa5871c3b1c3188a5275a1e03ee33a8",
+    "revision": "79c1db9b16d7e87e7c7cdae3604888f2",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "20b1d249f1eab1d36abc",
+    "revision": "65a2f67245adbc68b37f",
     "url": "/developerFolio/static/css/3.bc85b1b3.chunk.css"
   },
   {
-    "revision": "4f7b19f4f91c4ecb1e84",
+    "revision": "e172c5e19927fd7e3892",
     "url": "/developerFolio/static/css/4.5c57288c.chunk.css"
   },
   {
-    "revision": "6a1bd7a6658f8fba911a",
+    "revision": "28da80ee8570fee90f11",
     "url": "/developerFolio/static/css/main.4958d910.chunk.css"
   },
   {
-    "revision": "7fb654a926e5fc657c41",
-    "url": "/developerFolio/static/js/2.ebfbc486.chunk.js"
+    "revision": "6e3a5b1d705697c03a6e",
+    "url": "/developerFolio/static/js/2.684ca12d.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/developerFolio/static/js/2.ebfbc486.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.684ca12d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20b1d249f1eab1d36abc",
-    "url": "/developerFolio/static/js/3.48dbe6a3.chunk.js"
+    "revision": "65a2f67245adbc68b37f",
+    "url": "/developerFolio/static/js/3.47c3fd68.chunk.js"
   },
   {
-    "revision": "4f7b19f4f91c4ecb1e84",
-    "url": "/developerFolio/static/js/4.36667f7b.chunk.js"
+    "revision": "e172c5e19927fd7e3892",
+    "url": "/developerFolio/static/js/4.e90be020.chunk.js"
   },
   {
-    "revision": "6a1bd7a6658f8fba911a",
-    "url": "/developerFolio/static/js/main.e5860a03.chunk.js"
+    "revision": "28da80ee8570fee90f11",
+    "url": "/developerFolio/static/js/main.10d7e654.chunk.js"
   },
   {
-    "revision": "024eb218e2f5569d7a7c",
-    "url": "/developerFolio/static/js/runtime-main.c6fd32c8.js"
+    "revision": "da37d4bb5d478afccd14",
+    "url": "/developerFolio/static/js/runtime-main.477660df.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -64,10 +64,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/azak_logo.d05eae31.png"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/developerFolio/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/developerFolio/static/media/contactMailDark.51cf7192.svg"
   },
@@ -86,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/developerFolio/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/developerFolio/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
