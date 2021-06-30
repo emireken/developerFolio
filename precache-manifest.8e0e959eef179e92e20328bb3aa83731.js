@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73552bef19608ed5be3c3131058ee346",
+    "revision": "3f0f473dfde177c16b5881492fd51093",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "b13d35795df7a2a36ce3",
+    "revision": "20b1d249f1eab1d36abc",
     "url": "/portfolio/static/css/3.bc85b1b3.chunk.css"
   },
   {
-    "revision": "6c4a16ac2c7891ad21e6",
+    "revision": "4f7b19f4f91c4ecb1e84",
     "url": "/portfolio/static/css/4.5c57288c.chunk.css"
   },
   {
-    "revision": "8ab8b86f41e7f46a81cb",
+    "revision": "49bd3a1c621d8755aaee",
     "url": "/portfolio/static/css/main.a411e791.chunk.css"
   },
   {
-    "revision": "89cd4351173d68f8d266",
-    "url": "/portfolio/static/js/2.ecb57524.chunk.js"
+    "revision": "7fb654a926e5fc657c41",
+    "url": "/portfolio/static/js/2.ebfbc486.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/portfolio/static/js/2.ecb57524.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.ebfbc486.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b13d35795df7a2a36ce3",
-    "url": "/portfolio/static/js/3.8df023d5.chunk.js"
+    "revision": "20b1d249f1eab1d36abc",
+    "url": "/portfolio/static/js/3.48dbe6a3.chunk.js"
   },
   {
-    "revision": "6c4a16ac2c7891ad21e6",
-    "url": "/portfolio/static/js/4.20bf982c.chunk.js"
+    "revision": "4f7b19f4f91c4ecb1e84",
+    "url": "/portfolio/static/js/4.36667f7b.chunk.js"
   },
   {
-    "revision": "8ab8b86f41e7f46a81cb",
-    "url": "/portfolio/static/js/main.c6eed605.chunk.js"
+    "revision": "49bd3a1c621d8755aaee",
+    "url": "/portfolio/static/js/main.43f6b65f.chunk.js"
   },
   {
-    "revision": "17c50faadb9a34b7f3ee",
-    "url": "/portfolio/static/js/runtime-main.43834afa.js"
+    "revision": "aeec1591f022a86f25ef",
+    "url": "/portfolio/static/js/runtime-main.55d856ca.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -74,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "995a27de1280c502b2a69f9f1b10aa17",
     "url": "/portfolio/static/media/fya_logo.995a27de.png"
-  },
-  {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/portfolio/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
