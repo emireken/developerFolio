@@ -47,13 +47,3 @@ For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` functi
 - [UnDraw](https://undraw.co/illustrations)
 - [Lottie by Oblikweare](https://lottiefiles.com/oblikweare)
 
-
-## Project Maintainers
-
-<table>
-  <tr>
-    <td align="center"><a href="http://emireken.github.io/"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Emir Eken</b></sub></a></td>
-
-  </tr>
-</table>
-
