@@ -4,7 +4,7 @@ import "./Header.scss";
 import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
 import StyleContext from "../../contexts/StyleContext";
 import {
-  greeting,
+  //greeting,
   workExperiences,
   skillsSection,
   openSource,
@@ -26,9 +26,13 @@ function Header() {
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
         <a href="/developerFolio" className="logo">
-          <span className="grey-color"> &lt;</span>
-          <span className="logo-name">{greeting.username}</span>
-          <span className="grey-color">/&gt;</span>
+          {/* <span className="grey-color"> &lt;</span> */}
+          <img
+            alt="name logo"
+            src={require("../../assets/images/android-chrome-384x384.png")}
+          ></img>
+          {/* <span className="logo-name">{greeting.username}</span> */}
+          {/* <span className="grey-color">/&gt;</span> */}
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
         <label

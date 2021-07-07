@@ -12,9 +12,9 @@ const illustration = {
 
 const greeting = {
   username: "Emir Eken",
-  title: "Hi all, I'm Emir",
+  title: "Hello, I'm Emir",
   subTitle: emoji(
-    "A passionate Project Manager 🚀 having an 7 years of experience of managing Web and Mobile application projects. More than 3 years of experience in software analysis and tests. Also a Software development enthusiast with JAVA. "
+    "A passionate Project Manager 🚀 having 7 years of experience in managing Web and Mobile application projects. More than 3 years of experience in software analysis and tests. Also a Software development enthusiast with JAVA. "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing",
@@ -26,7 +26,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/emireken",
   linkedin: "https://www.linkedin.com/in/emirgokberkeken/",
-  gmail: "emirgokberk.eken@gmail.com",
+  //gmail: "emirgokberk.eken@gmail.com",
   gitlab: "https://gitlab.com/emireken",
   //facebook: "https://www.facebook.com/emirgokberk.eken",
   //medium: "https://medium.com/@emireken",
@@ -80,6 +80,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "jira",
       fontAwesomeClassname: "fab fa-jira"
+    },
+    {
+      skillName: "QA Test",
+      fontAwesomeClassname: "fas fa-spell-check"
     },
     // {
     //   skillName: "swift",
@@ -138,11 +142,11 @@ const educationInfo = {
       logo: require("./assets/images/bau_logo.png"),
       subHeader: "Master of Science in Bioengineering",
       duration: "2012 - 2013",
-      desc: "Participated in the research of Cardiovascular Mock Circuit.",
-      descBullets: [
-        "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship accurately. For this goal pressure volume relationship was calculated using elastance."
-        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "Participated in the research of Cardiovascular Mock Circuit."
+      // descBullets: [
+      //   "The goal of this project is to design and build a cardiovascular system mock circuit (CVMC) that is drivable with an elastance-based feed-back control left and right ventricles that can replicate the heart’s pressure-volume relationship accurately. For this goal pressure-volume relationship was calculated using elastance."
+      //   // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
       schoolName: "Bahcesehir Univesity",
@@ -165,7 +169,11 @@ const techStack = {
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Software Analysis",
+      Stack: "Techical Analysis",
+      progressPercentage: "80%"
+    },
+    {
+      Stack: "QA Testing",
       progressPercentage: "80%"
     },
     {
@@ -188,9 +196,10 @@ const workExperiences = {
       date: "June 2018 – May 2021",
       desc: "Managed projects to achieve project objectives according to the project acceptance criteria within agreed parameters.",
       descBullets: [
-        "For this purpose as a project manager my job was create information flow between IT and business departments.",
+        "For this purpose as a project manager, my job was creating information flow between IT and business departments.",
         "Learned to write technical analysis for demanded software developments.",
-        "Be a member of decision making team for UI, UX and overall design aesthetic of the software."
+        "Be a member of the decision-making team for UI, UX, and overall design aesthetic of the software.",
+        "During and after developments QA Testing was part of the job.  functionally and linguistically testing on mobile and web platforms was crucial for the production software release."
       ]
     },
     {
@@ -210,7 +219,8 @@ const workExperiences = {
       date: "Jan 2015 – Sep 2015",
       desc: "Managed A|Store project from idea stage to software integration, prototyping and mass production.",
       descBullets: [
-        "Created series of company protocols and guidelines for project management, IT equipment purchasing, grand application processes, etc."
+        "Created series of company protocols and guidelines for project management, IT equipment purchasing, grand application processes, etc.",
+        "Design, production, and support processes were designed for A|Store products to be a standardized quality of the product and services."
       ]
     }
   ]
@@ -234,7 +244,7 @@ const bigProjects = {
       image: require("./assets/images/fya_logo.png"),
       projectName: "FIAT Connect",
       projectDesc:
-        "Connected cars are primarily vehicles that are equipped with telematic control units to access internet. They have an inbuilt GSM modules and are able to connect with entities outside the vehicle. It has several value added services in FIAT Yol Arkadaşım application such as vehicle control, improved safety.",
+        "Connected cars are primarily vehicles that are equipped with telematics control units to access the internet. They have inbuilt GSM modules and can connect with entities outside the vehicle. It has several value-added services in FIAT Yol Arkadaşım application such as vehicle control, improved safety.",
       footerLink: [
         {
           name: "Visit Website",
@@ -247,7 +257,7 @@ const bigProjects = {
       image: require("./assets/images/astore_logo.png"),
       projectName: "Medicine and Medical Consumables Management Unit",
       projectDesc:
-        "A|Store is a logistics management system that manages medicine and medical consumables of      Acıbadem Healthcare Group. ASTORE is integrated with outsource applications like Hospital Information System      (HIS) and Enterprise Resource Planning (ERP). It has also hardware’s like electronic cabinet and console system.",
+        "A|Store is a logistics management system that manages the medicine and medical consumables of  Acıbadem Healthcare Group. A|STORE is integrated with outsourcing applications like Hospital Information System      (HIS) and Enterprise Resource Planning (ERP). It has also hardware like an electronic cabinet and console system.",
       footerLink: [
         {
           name: "Visit Website",
@@ -261,7 +271,7 @@ const bigProjects = {
       projectName:
         "Construction and Feedback Control of an Elastance-driven Mock Circuit",
       projectDesc:
-        "Goal of this project is to design and build a cardiovascular system mock circuit (CVMC) which is drivable with an       elastance based feed-back control left and right ventricles that can replicate heart’s pressure-volume relationship       accurately. For this goal pressure volume relationship was calculated using elastance.",
+        "The goal of this project is to design and build a cardiovascular system mock circuit (CVMC) that is drivable with an elastance-based feed-back control left and right ventricles that can replicate the heart’s pressure-volume relationship accurately. For this goal pressure-volume relationship was calculated using elastance.",
       footerLink: [
         {
           name: "Download Master Thesis ",
@@ -283,19 +293,72 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Assistant Action",
+      title: "Udacity - Data Streaming",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        "Learned how to process data in real-time by building fluency in modern data engineering tools, such as Apache Spark, Kafka, Spark Streaming, and Kafka Streaming.",
+      image: require("./assets/images/kafka_logo.png"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1w784vqp33gmz0Jlrb310bBB9vZ5PNA-X/view?usp=sharing"
+        },
+        {
+          name: "View Syllabus",
+          url: "https://www.udacity.com/course/data-streaming-nanodegree--nd029"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Azure Machine Learning",
+      subtitle:
+        "Learned how to analyze the requirements for AI solutions, recommend appropriate tools and technologies, and implements solutions that meet scalability and performance requirements designing and Implementing an Azure AI Solution.",
+      image: require("./assets/images/azure_logo.png"),
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing"
+        },
+        {
+          name: "View Syllabus",
+          url: "https://llpa.skills-academy.com/exam/ai-100-designing-and-implementing-an-azure-ai-solution/"
+        }
+      ]
+    },
+    {
+      title: "Patents and Design Registrations",
+      subtitle:
+        "During the A|Store project, we developed several pieces of equipment and applied them to the Turkish Patent and Trademark Office. You can find details and applications numbers of patents and design registrations in my resume.",
+      image: require("./assets/images/patents_logo.png"),
+      footerLink: [
+        {
+          name: "Turkish Patent and Trademark Office Website",
+          url: "https://www.turkpatent.gov.tr/TURKPATENT/"
+        },
+        {
+          name: "See My Resume",
+          url: "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing"
         }
       ]
     }
+
+    // {
+    //   title: "FIAT - Recognition and Appreciation Awards",
+    //   subtitle:
+    //     "During the A|Store project, we developed several pieces of equipment and applied them to the Turkish Patent and Trademark Office. You can find details and applications numbers of patents and design registrations in my resume.",
+    //   image: require("./assets/images/awards_logo.png"),
+    //   footerLink: [
+    //     {
+    //       name: "Turkish Patent and Trademark Office Website",
+    //       url: "https://www.turkpatent.gov.tr/TURKPATENT/"
+    //     },
+    //     {
+    //       name: "See My Resume",
+    //       url: "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing"
+    //     }
+    //   ]
+    // }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -310,7 +373,7 @@ const blogSection = {
       url: "https://emireken.github.io/egek-blog-app/#/",
       title: "GITHUB Software Blog",
       description:
-        "Do you want to share your progress of your development? React Blog is a personal blog system build on React that helps you create your own personal blog using Github Issues "
+        "Do you want to share the progress of your development? React Blog is a personal blog system build on React that helps you create your blog using Github Issues "
     },
     {
       url: "https://1i3t.blogspot.com/?zx=30eac4b812daf512",
