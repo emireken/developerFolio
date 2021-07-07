@@ -97,10 +97,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
-    // {
-    //   skillName: "aws",
-    //   fontAwesomeClassname: "fab fa-aws"
-    // },
+    {
+      skillName: "android",
+      fontAwesomeClassname: "fab fa-android"
+    },
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
