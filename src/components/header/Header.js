@@ -25,7 +25,7 @@ function Header() {
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
-        <a href="/developerFolio" className="logo">
+        <a href="/portfolio" className="logo">
           {/* <span className="grey-color"> &lt;</span> */}
           <img
             alt="name logo"
