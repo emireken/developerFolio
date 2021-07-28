@@ -1,6 +1,6 @@
-# Software Developer Folio ⚡️ 
+# Personal  Folio 🎁
 
-## A clean, beautiful and responsive portfolio template for Developers!
+## A clean, beautiful, and responsive portfolio template for IT Professionals!
 
 <!-- <p align="center">
   <kbd>
