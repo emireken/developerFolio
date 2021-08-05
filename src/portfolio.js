@@ -190,6 +190,16 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Tech Linguistic Tester",
+      company: "Welocalize, Inc. ",
+      companylogo: require("./assets/images/welocalize_logo.png"),
+      date: "Aug 2021 – Present",
+      desc: "Provided Quality Control for different kind of products, formats and purposes. Sometimes the focus is solely linguistic, some others also include functionality and or culturally specific localization.",
+      // descBullets: [
+      //   ""
+      // ]
+    },
+    {
       role: "IT Project Leader",
       company: "Stellantis - TOFAS Automotive",
       companylogo: require("./assets/images/stellantis_logo.png"),
@@ -199,7 +209,7 @@ const workExperiences = {
         "For this purpose as a project manager, my job was creating information flow between IT and business departments.",
         "Learned to write technical analysis for demanded software developments.",
         "Be a member of the decision-making team for UI, UX, and overall design aesthetic of the software.",
-        "During and after developments QA Testing was part of the job.  functionally and linguistically testing on mobile and web platforms was crucial for the production software release."
+        "During and after developments QA Testing was part of the job.  Functionally and linguistically testing on mobile and web platforms was crucial for the production software release."
       ]
     },
     {
