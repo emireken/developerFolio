@@ -105,10 +105,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    // {
-    //   skillName: "python",
-    //   fontAwesomeClassname: "fab fa-python"
-    // },
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
     {
       skillName: "github",
       fontAwesomeClassname: "fab fa-github"
@@ -194,7 +194,7 @@ const workExperiences = {
       company: "Welocalize, Inc. ",
       companylogo: require("./assets/images/welocalize_logo.png"),
       date: "Aug 2021 – Present",
-      desc: "Provided Quality Control for different kind of products, formats and purposes. Sometimes the focus is solely linguistic, some others also include functionality and or culturally specific localization.",
+      desc: "Provided Quality Control for different kind of products, formats and purposes. Sometimes the focus is solely linguistic, some others also include functionality and or culturally specific localization."
       // descBullets: [
       //   ""
       // ]
