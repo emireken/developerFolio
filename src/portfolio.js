@@ -14,7 +14,7 @@ const greeting = {
   username: "Emir Eken",
   title: "Hello, I'm Emir",
   subTitle: emoji(
-    "A passionate Project Manager 🚀 having 7 years of experience in managing Web and Mobile application projects. More than 3 years of experience in software analysis and tests. Also a Software development enthusiast with JAVA. "
+    "Project Leader with 7 years of experience  🚀 in software in technical analysis, product integration, data analytics using various project management tools and methodologies "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing",
@@ -194,7 +194,7 @@ const workExperiences = {
       company: "Welocalize, Inc. ",
       companylogo: require("./assets/images/welocalize_logo.png"),
       date: "Aug 2021 – Present",
-      desc: "Provided Quality Control for different kind of products, formats and purposes. Sometimes the focus is solely linguistic, some others also include functionality and or culturally specific localization."
+      desc: "Validated content already localized to the Turkish language, catching any errors in the content, such as grammar, typos, syntax, etc. Tested APIs for integrations and checked UIs for functional issues"
       // descBullets: [
       //   ""
       // ]
@@ -217,7 +217,7 @@ const workExperiences = {
       company: "Azak Collective Company",
       companylogo: require("./assets/images/azak_logo.png"),
       date: "November 2016 – June 2018",
-      desc: "Managed an installation project a flexible and well-structured end-to-end IT solution, which covers stock management, accounting, selling and invoicing for a family business.",
+      desc: "Managed an installation project, a flexible and well-structured end-to-end IT solution, which covers stock management, accounting, selling, and invoicing for the family business",
       descBullets: [
         "Worked with local vendors for ease maintenance and technical support."
       ]
@@ -230,7 +230,7 @@ const workExperiences = {
       desc: "Managed A|Store project from idea stage to software integration, prototyping and mass production.",
       descBullets: [
         "Created series of company protocols and guidelines for project management, IT equipment purchasing, grand application processes, etc.",
-        "Design, production, and support processes were designed for A|Store products to be a standardized quality of the product and services."
+        "•	Specialized in software delivery management, process management, business requirement definition, and client training."
       ]
     }
   ]
@@ -326,7 +326,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certification",
-          url: "https://drive.google.com/file/d/1gmxcEI0GtxnnKDXMs2B6q5LVbojk3Kgv/view?usp=sharing"
+          url: "https://drive.google.com/file/d/10JbhSluI0AiCSXhL2ydIHOdGaP7Qe7lx/view?usp=sharing"
         },
         {
           name: "View Syllabus",
